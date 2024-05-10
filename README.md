@@ -14,6 +14,8 @@ LaTeX: Used for generating the project report and visualizing results.
 
 ## Usage
 Data: Pokémon images dataset from Kaggle and Huggingface.
+Labeled Dataset: https://drive.google.com/drive/folders/1gDwqU72cZt0CFwLb512qXY-2Yn5HB-rM?usp=sharing
+Unlabeled Dataset: https://drive.google.com/drive/folders/1ZbP-ksYeS_yvyW4To9DQ9GfxFXorq7S2?usp=sharing
 Run: Execute the model script to generate feature vectors and similarity heatmaps.
 
 ## Results
