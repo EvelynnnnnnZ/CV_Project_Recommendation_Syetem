@@ -28,6 +28,9 @@ Run: Execute the model script to generate feature vectors and similarity heatmap
 ## Results
 This project successfully demonstrates the capability of DINO-V2 in capturing nuanced visual similarities among Pokémon, aiding in the recommendation of visually similar characters.
 
+## Note
+The report included in this repo is only the part for DINO-V2. Please regard our submission in https://drive.google.com/drive/folders/1X0Z4mn5HYJpsBXkdKMalMsPSCSI35GkC?usp=drive_link as the final report.
+
 ## Acknowledgments
 All citations as mentioned in the report.
 
